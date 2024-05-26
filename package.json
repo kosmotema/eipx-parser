@@ -1,0 +1,20 @@
+{
+  "name": "eipx-parser",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint ./src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tsconfig/strictest": "^2.0.5",
+    "eslint": "^8",
+    "eslint-import-resolver-typescript": "^3.6.1",
+    "eslint-plugin-import-x": "^0.5.1",
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^7.10.0"
+  }
+}
